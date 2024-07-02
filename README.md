@@ -19,8 +19,15 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
+ <h4> Certifications:</h2>
 
-<h4> 🤳 Connect with me:</h2>
+- [Microsoft 365 Certified: Fundamentals](https://learn.microsoft.com/en-us/users/carsonlittrell-6296/credentials/742a7dc964ce712d?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/EAKTRW884FUN)
+- [Vulnerability Management in Cybersecurity: The Basics](https://www.linkedin.com/learning/certificates/2f7bf76d89ab3b9008b69da940e32adbbbcfe1f7b9db8ef9c829b25b8eb23e5e)
+
+
+<h5> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
