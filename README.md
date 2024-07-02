@@ -10,7 +10,7 @@
   - [Image Analysis Middleware]() 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]()
-  - [Disk Wiping](https://github.com/CarsonLittrell/Diskwipe)
+  - [DiskWipe](https://github.com/CarsonLittrell/Diskwipe)
   - [Active Directory Bulk User Creation]()
   - [FIM (File Integrity Monitor)]()
 - <b>C# (.NET Desktop Applications)</b>
